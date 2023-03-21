@@ -1,0 +1,66 @@
+
+.container {
+  margin: auto;
+  width: 30%;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #eb90638b;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: #ffffff;
+
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color:  #ffffff;
+  text-align: left;
+}
+
+
+input,select {
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  
+  
+}
+
+.btn {
+  background-color:rgb(215,169,107);
+  color:  #eb9063;
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.btn:hover {
+  background-color: #973200;
+  color: #eb9063;
+}
+
+body{
+    background-image: url(books.jpg);
+    
+}
+p{
+  font-size:x-large;
+  color: aliceblue;
+}
+
+
+
